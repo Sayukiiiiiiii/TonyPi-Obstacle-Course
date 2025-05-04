@@ -28,6 +28,7 @@ import hiwonder.Camera as Camera
 import hiwonder.ActionGroupControl as AGC
 import hiwonder.yaml_handle as yaml_handle
 
+print('add-filter')
 #——————————————————————————————————
 
 # 调试模式(True时不会执行实际动作)
